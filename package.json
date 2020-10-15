@@ -1,0 +1,23 @@
+{
+  "name": "rancid-tomatillos-microserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielmillard/rancid-tomatillos-microserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanielmillard/rancid-tomatillos-microserver/issues"
+  },
+  "homepage": "https://github.com/nathanielmillard/rancid-tomatillos-microserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
